@@ -1,7 +1,5 @@
 ### Hola 👋 Soy Camila Peña R 
-![ETAPAS](https://github.com/cpdiseno/cpdiseno/assets/84547965/23da7fa7-13c4-462e-b446-4a16d4cb7c59)
-
-Actualmente vivo en Valdivia, sur de Chile, trabajo en remoto para empresas de TI como diseñadora UX UI, también trabajo en consultoría Ux y diseño de interfaces.
+🌎 Actualmente vivo en Valdivia, sur de Chile, trabajo en remoto para empresas de TI como diseñadora UX UI, también trabajo en consultoría Ux y diseño de interfaces.
 
 🌱Estoy finalizando el Bootcamp Desarrollo Ruby on Rails para emprendimientos de tipo Startup. Talento digital para Chile. Septiembre 2023.
 
@@ -20,3 +18,4 @@ Actualmente vivo en Valdivia, sur de Chile, trabajo en remoto para empresas de T
 💃Escuela Fortalecim. Empresarial Femenino- Sercotec.
 
 ✍️Titulada como Diseñadora Gráfica en la Universidad Diego Portales, Stgo.
+![ETAPAS](https://github.com/cpdiseno/cpdiseno/assets/84547965/b5bcb670-d474-4c43-b524-811101b3a7de)
