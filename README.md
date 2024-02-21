@@ -18,4 +18,11 @@
 💃Escuela Fortalecim. Empresarial Femenino- Sercotec.
 
 ✍️Titulada como Diseñadora Gráfica en la Universidad Diego Portales, Stgo.
+
+Webs en Github Pages: 
+Ejercicio "Viajes Chile" sitio responsivo desarrollado con bootstrap, uso de cards, carrusel de imágenes, menú 🍔 emergente, formulario de contacto, iconos con link a rrss.
+https://cpdiseno.github.io/ViajesChile/
+
+Sitio corporativo para oficina HS abogados, desarrollo de imagen y web: https://cpdiseno.github.io/hs/
+
 ![ETAPAS](https://github.com/cpdiseno/cpdiseno/assets/84547965/b5bcb670-d474-4c43-b524-811101b3a7de)
