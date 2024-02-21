@@ -23,17 +23,20 @@ Estudios:
 
 ✍️Titulada como Diseñadora Gráfica en la Universidad Diego Portales, Stgo.
 
-👩‍💻Experiencia en agencias de publicidad en Santiago y Valdivia, 3 años trabajando en remoto para empresas de TI. 
+👩‍💻Experiencia en agencias de publicidad en Santiago y Valdivia, + de 10 años trabajo presencial y freelance, y 3 años trabajando en remoto. 
 
 
-Webs en Github Pages: 
+🌐 Webs en Github Pages: 
+
 Ejercicio "Viajes Chile" sitio responsivo desarrollado con bootstrap, uso de cards, carrusel de imágenes, menú 🍔 emergente, formulario de contacto, iconos con link a rrss.
 https://cpdiseno.github.io/ViajesChile/
 
-Sitio corporativo para oficina HS abogados, desarrollo de imagen y web: https://cpdiseno.github.io/hs/
+🌐 Sitio corporativo para oficina HS abogados, diseño de logo y web (en desarrollo): https://cpdiseno.github.io/hs/
 
-Asesorìa en mejora de experiencia y diseño de prototipos para AFC Chile, seguro de cesantía https://www.afc.cl/afc/
+🌐 Asesorìa en mejora de experiencia y diseño de prototipos para AFC Chile, seguro de cesantía https://www.afc.cl/afc/
 
-Diseño de web y banners para https://itaubeneficios.cl/
+🌐 Diseño de web y banners para https://itaubeneficios.cl/
+
+
 
 ![ETAPAS](https://github.com/cpdiseno/cpdiseno/assets/84547965/b5bcb670-d474-4c43-b524-811101b3a7de)
